@@ -1,5 +1,5 @@
 # 吴康 · 数据分析作品集
-![照片](https://github.com/428-kang/portfolio/blob/0410fc6d4cd81fb830f51df1bbc24b1206dd57b6/images/photo.jpg?raw=true)
+![照片](images/photo.jpg)
 ## 项目 1：电商用户行为与转化漏斗分析
 
 **背景**：某电商平台 11 万条用户行为日志，想找出从浏览到下单的流失瓶颈。  
