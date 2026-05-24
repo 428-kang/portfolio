@@ -18,13 +18,18 @@
 
 ## 项目 2：门店每日业务监控仪表盘
 
-项目概述
-本项目基于Tableau构建的交互式业务监控仪表盘，整合2020年3月至9月的业务数据，通过多维度可视化展示核心业务指标（GMV、曝光人数、下单转化等）及区域/平台/门店维度的表现，为运营团队提供实时数据洞察，支持快速决策和策略优化。
+*项目介绍：* 本项目基于Tableau构建的交互式业务监控仪表盘，整合2020年3月至9月的业务数据，通过多维度可视化展示核心业务指标（GMV、曝光人数、下单转化等）及区域/平台/门店维度的表现，为运营团队提供实时数据洞察，支持快速决策和策略优化。
 <img src="images/tableau.png" alt="销售数据汇总表" style="width: 80%; height: auto; display: block; margin: 20px auto;">
 
 ---
 
-## 项目 3：某健身 App 用户留存分析
+## 项目 3：产品销售数据分析及用户画像
+
+*项目介绍：* 本项目基于Python构建的产品销售数据分析系统，通过Pandas进行数据清洗与处理，利用Matplotlib和Seaborn进行多维度可视化分析，深入挖掘销售数据背后的业务规律，为销售策略优化提供数据支持。
+
+<iframe src="projects/python.html" width="100%" height="500px" style="border: 1px solid #eee;"></iframe>
+
+[查看完整项目分析](projects/python.html)
 
 
 
